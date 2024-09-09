@@ -1,0 +1,43 @@
+body {
+    background-color: rgb(255, 255, 255);
+}
+
+.container {
+    margin-top: 50px;
+    width: 45% !important;
+}
+
+form {
+    background: #00799e;
+    border: 3px solid #000000;
+    border-radius: 10px;
+    padding: 20px 10px;
+}
+
+#task {
+    width: 70%;
+    float: left;
+    margin-right: 5%;
+}
+
+div .container {
+    margin-top: 50px;
+    width: 100% !important;
+    float: center;
+    background: #6a6a6a;
+    border: 3px solid #000000;
+    border-radius: 10px;
+    padding: 20px 10px;
+    font-size: 35px;
+}
+
+ul {
+    border: 2px solid #000000;
+    border-radius: 10px;
+    background: #ffffff;
+}
+
+ul:hover {
+    padding-left: 50px;
+    transition: all 0.3s;
+}
